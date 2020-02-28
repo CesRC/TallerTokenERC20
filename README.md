@@ -1,4 +1,3 @@
-# TallerTokenERC20
-Taller Token ERC20
+# Taller Token ERC-20
 
-ERC20.sol Implementation of ERC20 Token Standard
+ERC20.sol Implementation of ERC-20 Token Standard
