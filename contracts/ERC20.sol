@@ -1,7 +1,7 @@
 /* Token ERC20 - Smart Contract  */
 /* SPDX-License-Identifier: GPL-3.0 */
     
-pragma solidity 0.8.19;
+pragma solidity 0.8.20;
     
 import "github.com/OpenZeppelin/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol";
 
